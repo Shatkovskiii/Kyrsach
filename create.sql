@@ -6,7 +6,7 @@ FileLink VARCHAR(64) NOT NULL);
 
 
 CREATE TABLE Customer ( id_customer SERIAL PRIMARY KEY,  
- firstname  VARCHAR(24) , lastname VARCHAR(24)   NOT NULL, 
+ firstname  VARCHAR(24) NOT NULL, lastname VARCHAR(24)   NOT NULL, 
   contact_information VARCHAR(255) NOT NULL UNIQUE);
 
 
