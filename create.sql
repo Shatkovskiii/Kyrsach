@@ -22,7 +22,6 @@ type VARCHAR(64)  NOT NULL,
 area FLOAT NOT NULL,
 price DECIMAL NOT NULL);
 
- 
 CREATE TABLE Transaction ( id_transaction SERIAL PRIMARY KEY,  
 id_document integer NOT NULL,
 id_customer integer NOT NULL,
