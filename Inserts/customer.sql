@@ -69,3 +69,4 @@ INSERT INTO Customer (firstname, lastname, contact_information) VALUES
   ('Addison', 'Anderson', 'addison.anderson@email.com'),
   ('Joseph', 'Williams', 'joseph.williams@email.com'),
   ('Avery', 'Doe', 'avery.doe@email.com');
+  
