@@ -1,3 +1,4 @@
+Create database operaci
 
 CREATE TABLE Documents ( id_document SERIAL PRIMARY KEY,  
  DocumentType VARCHAR(24) NOT NULL, 
@@ -9,8 +10,7 @@ CREATE TABLE Customer ( id_customer SERIAL PRIMARY KEY,
  firstname  VARCHAR(24) NOT NULL, lastname VARCHAR(24)   NOT NULL, 
   contact_information VARCHAR(255) NOT NULL UNIQUE);
 
-
-CREATE TABLE Estate_Agent (id_agent SERIAL PRIMARY KEY,
+CREATE TABLE Estate_Agent (id_agent SERIAL PRIMARY KEY,S
    firstname VARCHAR(24) NOT NULL,  
     lastname VARCHAR(24)  NOT NULL, 
     contact_information VARCHAR(255) NOT NULL UNIQUE);
