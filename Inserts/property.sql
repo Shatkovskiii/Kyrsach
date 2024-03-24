@@ -52,3 +52,65 @@ INSERT INTO property (address, type, area, price) VALUES
   ('202 Oak Street', 'Townhouse', 200.5, 350000),
   ('303 Birch Lane', 'Apartment', 150.7, 260000),
   ('404 Elm Avenue', 'Condo', 110.2, 180000);
+
+  INSERT INTO property (address, type, area, price)
+VALUES ('123 Main St', 'House', 150.5, 250000),
+       ('456 Elm St', 'Apartment', 75.3, 180000),
+       ('789 Oak St', 'House', 200.0, 350000),
+       ('101 Pine St', 'Condo', 90.7, 200000),
+       ('202 Maple St', 'House', 180.2, 320000),
+       ('303 Cedar St', 'Apartment', 65.8, 150000),
+       ('404 Birch St', 'Condo', 85.6, 190000),
+       ('505 Walnut St', 'House', 220.3, 380000),
+       ('606 Chestnut St', 'Apartment', 70.4, 160000),
+       ('707 Spruce St', 'Condo', 95.0, 210000);
+
+INSERT INTO property (address, type, area, price)
+VALUES ('808 Pineapple Ln', 'House', 210.8, 360000),
+       ('909 Banana St', 'Apartment', 80.5, 170000),
+       ('111 Cherry Ave', 'House', 190.6, 330000),
+       ('222 Grape St', 'Condo', 88.2, 200000),
+       ('333 Orange Blvd', 'House', 225.4, 390000),
+       ('444 Lemon St', 'Apartment', 72.6, 155000),
+       ('555 Peach Ln', 'Condo', 92.3, 220000),
+       ('666 Plum Ave', 'House', 205.7, 370000),
+       ('777 Raspberry St', 'Apartment', 68.9, 165000),
+       ('888 Blueberry Blvd', 'Condo', 97.5, 230000);
+
+INSERT INTO property (address, type, area, price)
+VALUES ('999 Strawberry St', 'House', 215.2, 400000),
+       ('123 Mango Ln', 'Apartment', 78.4, 175000),
+       ('456 Kiwi Ave', 'House', 195.8, 340000),
+       ('789 Avocado Blvd', 'Condo', 82.7, 205000),
+       ('101 Pineapple Ln', 'House', 230.5, 420000),
+       ('202 Banana St', 'Apartment', 75.9, 160000),
+       ('303 Cherry Ave', 'Condo', 90.1, 210000),
+       ('404 Grape St', 'House', 220.9, 380000),
+       ('505 Orange Blvd', 'Apartment', 71.2, 165000),
+       ('606 Lemon St', 'Condo', 95.8, 225000);
+
+INSERT INTO property (address, type, area, price)
+VALUES ('707 Peach Ln', 'House', 225.6, 410000),
+       ('808 Plum Ave', 'Apartment', 79.2, 180000),
+       ('909 Raspberry St', 'House', 200.3, 350000),
+       ('111 Blueberry Blvd', 'Condo', 85.4, 210000),
+       ('222 Strawberry St', 'House', 235.8, 430000),
+       ('333 Mango Ln', 'Apartment', 76.7, 170000),
+       ('444 Kiwi Ave', 'Condo', 92.0, 215000),
+       ('555 Avocado Blvd', 'House', 225.2, 390000),
+       ('666 Pineapple Ln', 'Apartment', 73.5, 170000),
+       ('777 Banana St', 'Condo', 97.3, 220000);
+
+INSERT INTO property (address, type, area, price)
+VALUES ('888 Cherry Ave', 'House', 240.1, 450000),
+       ('999 Grape St', 'Apartment', 80.9, 185000),
+       ('123 Orange Blvd', 'House', 205.7, 360000),
+       ('456 Lemon St', 'Condo', 87.6, 215000),
+       ('789 Peach Ln', 'House', 240.8, 440000),
+       ('101 Plum Ave', 'Apartment', 77.4, 175000),
+       ('202 Raspberry St', 'Condo', 93.2, 220000),
+       ('303 Blueberry Blvd', 'House', 230.6, 400000),
+       ('404 Strawberry St', 'Apartment', 75.8, 170000),
+       ('505 Mango Ln', 'Condo', 96.5, 230000);
+
+

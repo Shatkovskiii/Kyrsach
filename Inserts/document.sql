@@ -83,3 +83,123 @@ INSERT INTO documents (documenttype, description, filelink) VALUES
   ('Deed Restriction Copy', 'Copy of deed restriction', '/file/deedrestrictioncopy063.pdf'),
   ('Owner Financing', 'Contract for owner financing', '/file/ownerfinancingcontract064.xlsx'),
   
+  INSERT INTO documents (documenttype, description, filelink)
+VALUES ('ID Card', 'Identification card scan', '/files/id_card_scan.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Utility Bill', 'Recent utility bill', '/files/utility_bill.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Employment Contract', 'Contract of employment', '/files/employment_contract.doc');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Medical Insurance', 'Health insurance policy', '/files/medical_insurance.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Rental Agreement', 'Lease agreement for property rental', '/files/rental_agreement.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Educational Certificate', 'Certified copy of educational certificate', '/files/educational_certificate.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Vehicle Registration', 'Copy of vehicle registration document', '/files/vehicle_registration.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Credit Report', 'Credit history report', '/files/credit_report.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Marriage Certificate', 'Copy of marriage certificate', '/files/marriage_certificate.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Property Deed', 'Deed document for property ownership', '/files/property_deed.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Business License', 'Business operating license', '/files/business_license.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Contract Agreement', 'Legal contract agreement', '/files/contract_agreement.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Tax Assessment', 'Property tax assessment report', '/files/tax_assessment.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Bank Loan Agreement', 'Loan agreement with bank', '/files/bank_loan_agreement.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Identity Verification', 'Document for identity verification', '/files/identity_verification.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Investment Portfolio', 'Portfolio report for investments', '/files/investment_portfolio.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Building Permit', 'Permit for construction or renovation', '/files/building_permit.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Health Certificate', 'Certificate of health status', '/files/health_certificate.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Legal Notice', 'Legal notice document', '/files/legal_notice.doc');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Property Survey', 'Survey report for property', '/files/property_survey.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Financial Statement', 'Statement of financial position', '/files/financial_statement.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Insurance Claim', 'Claim form for insurance', '/files/insurance_claim.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Property Appraisal', 'Appraisal report for property', '/files/property_appraisal.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Lease Renewal', 'Renewal agreement for property lease', '/files/lease_renewal.doc');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Employment Verification', 'Verification of employment document', '/files/employment_verification.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Certificate of Title', 'Certificate proving ownership of property', '/files/certificate_of_title.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Construction Plans', 'Plans for construction or renovation', '/files/construction_plans.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Health Insurance Card', 'Health insurance card image', '/files/health_insurance_card.jpg');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Customer Agreement', 'Agreement with customer', '/files/customer_agreement.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Notice to Vacate', 'Notice for tenant to vacate property', '/files/notice_to_vacate.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Property Insurance', 'Insurance policy for property', '/files/property_insurance.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Inventory Report', 'Report of inventory', '/files/inventory_report.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Employment Application', 'Application for employment', '/files/employment_application.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Tax Assessment Notice', 'Notice of property tax assessment', '/files/tax_assessment_notice.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Divorce Decree', 'Copy of divorce decree', '/files/divorce_decree.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Business Plan', 'Plan for business operations', '/files/business_plan.doc');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Tenant Screening Report', 'Report on tenant screening', '/files/tenant_screening_report.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Credit Application', 'Application for credit', '/files/credit_application.docx');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Property Inspection Report', 'Report of property inspection', '/files/property_inspection_report.pdf');
+
+INSERT INTO documents (documenttype, description, filelink)
+VALUES ('Legal Contract', 'Contract document', '/files/legal_contract.pdf');
+
